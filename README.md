@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**PUNAY96/PUNAY96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yvonne, an enthusiastic and dedicated Front-End Web Development learner on an exciting journey through the ALX Software Engineering Program. With a fresh perspective and a strong drive, I'm diving deep into HTML, CSS, and JavaScript to craft beautiful, responsive, and user-friendly web experiences.
 
-Here are some ideas to get you started:
+My journey into software engineering is fueled by a passion for creation and a clear mission: to empower small businesses across South Africa with a strong online presence. I believe that a well-designed website isn't just a luxury, but a vital tool for growth and connection in today's digital landscape. My goal is to bridge the gap for local entrepreneurs who might not have access to affordable, quality web development services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Let's Connect & Collaborate!
+I'm always eager to learn, collaborate, and contribute to meaningful projects.
+
+LinkedIn: [(https://www.linkedin.com/in/yvonnepunadi/)] - Let's connect professionally!
+
+Email: [yvonne.punadi@gmail.com] - Feel free to reach out for inquiries or collaborations.
+
+
